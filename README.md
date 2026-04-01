@@ -218,8 +218,19 @@ A: 减小batch_size和图像尺寸：`--batch_size 1 --min_size 640 --max_size 1
 4. **模型优化**：使用更轻量级的模型，如YOLO系列，提高实时性能
 5. **数据增强**：增加更多数据增强策略，提高模型泛化能力
 
-## 总结
+## 项目预览：
+![990a753f4edf926598cc56e6086d7ea4](https://github.com/user-attachments/assets/79a6d900-f65b-4e45-8c66-42a4fbee7f7a)
+<img width="1002" height="630" alt="7ae521b09ebfccae9d95b51e09dcb0ec" src="https://github.com/user-attachments/assets/8d941f7b-2d49-4f33-959e-cfe422af54f9" />
 
-本项目实现了一个完整的违停识别系统，从视频选择、ROI标注到违停检测和结果展示，形成了一个闭环的解决方案。系统采用了先进的目标检测和跟踪算法，结合直观的用户界面，为违停检测提供了一个高效、准确的工具。
+##效果展示：
+###场景一：
+<img width="2153" height="1117" alt="image" src="https://github.com/user-attachments/assets/59b409a1-a476-4248-8655-121713ffd164" />
+<img width="2156" height="1120" alt="image" src="https://github.com/user-attachments/assets/e4673591-9508-468a-a420-0abff5f4ee16" />
+###场景二：
+<img width="2159" height="1125" alt="image" src="https://github.com/user-attachments/assets/9c154f5e-afd9-4664-a6e6-d7d704f42470" />
+<img width="2159" height="1119" alt="image" src="https://github.com/user-attachments/assets/34032fe1-482b-488d-9a57-baa5a8a872a5" />
 
-通过本项目，可以看到如何将深度学习模型应用到实际场景中，以及如何构建一个完整的计算机视觉应用系统。系统的技术实现路径清晰，模块化设计合理，代码结构良好，展现了良好的软件工程实践。
+
+
+
+
